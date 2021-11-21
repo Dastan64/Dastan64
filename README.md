@@ -5,6 +5,8 @@
 
 Репозитории с другими названием = JavaScript/React-проекты, приложения.
 
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif" width="200px">
+
 
 # Немного больше обо мне
 * Нахожусь в Алматы с 2017 года.
