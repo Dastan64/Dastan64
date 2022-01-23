@@ -26,7 +26,7 @@
 - Иногда поигрывать в компьютерные игры.
 
 # Контакты
-- ![Telegram](https://img.shields.io/badge/Telegram-%23333?logo=telegram&logoColor=%2326A5E4): @dastan64;
+- **Telegram**: @dastan64;
 - **ВКонтакте**: https://vk.com/dastan132000;
 
 *E-mail можно узнать в личной переписке*
