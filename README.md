@@ -5,9 +5,6 @@
 
 Репозитории с другими названием = JavaScript/React-проекты, приложения.
 
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif" width="200px">
-
-
 # Немного больше обо мне
 * Нахожусь в Алматы с 2017 года.
 * Очень хорошо владею английским языком (IELTS 2019 года = C1). Немецким владею на уровне B1 (разок сдавал OnSet).
