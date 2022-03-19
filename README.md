@@ -25,8 +25,14 @@
 - Иногда поигрывать в компьютерные игры.
 
 # Контакты
-- **Telegram**: @dastan64;
-- **ВКонтакте**: https://vk.com/dastan132000;
+- 
+  <a href="https://www.linkedin.com/in/zhamekeshev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+-  <a href="https://t.me/dastan64">
+    <img src="https://img.shields.io/badge/Telegram-rgb(53,164,222)?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+
 
 *E-mail можно узнать в личной переписке*
 
