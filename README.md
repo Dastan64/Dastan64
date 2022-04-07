@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dastan64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/Dastan201/badges/large)](https://www.codewars.com/users/Dastan201)   
+
 # Хобби
 - Чтение книг, а также статей в Интернете
 - Видеомонтаж
