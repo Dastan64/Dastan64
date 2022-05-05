@@ -5,11 +5,8 @@
 Репозитории с другими названием = JavaScript/React-проекты.
 
 # Немного больше обо мне
-* Очень хорошо владею английским языком (IELTS 2019 года = C1). Немецким владею на уровне B1 (разок сдавал OnSet).
-* Фокус пока что на веб-программировании.
-* Недолюбливаю Safari.
 * Пишу на React JS.
-* В основном, читаю нон-фикшн, но разбавляю **зарубежной** классикой.
+* Планирую усиленно развиваться во frontend-разработке
 
 # Стек технологий 💻:
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23E34F26&color=%23333) ![CSS](https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236) ![JS](https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074) ![SCSS](https://img.shields.io/badge/SCSS-%23333?logo=sass) ![React](https://camo.githubusercontent.com/b8f9baf34dfa59e5cf63be744777f8f01596535a4bcc1502df3cf39a71d41c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374) ![Styled Components](https://img.shields.io/badge/styled%20components-%23333?logo=styled-components)
@@ -19,11 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dastan64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Dastan201/badges/large)](https://www.codewars.com/users/Dastan201)   
-
-# Хобби
-- Чтение книг, а также статей в Интернете
-- Видеомонтаж
-- Иногда поигрывать в компьютерные игры.
 
 # Контакты
 - 
